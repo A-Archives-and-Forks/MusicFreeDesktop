@@ -78,7 +78,7 @@
     "color": "^4.2.3",
     "comlink": "^4.4.1",
     "compare-versions": "^6.0.0-rc.1",
-    "crypto-js": "^4.1.1",
+    "crypto-js": "^4.2.0",
     "dayjs": "^1.11.7",
     "dexie": "^3.2.4",
     "electron-squirrel-startup": "^1.0.0",
